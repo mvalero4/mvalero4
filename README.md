@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I´m Carmen Valero, I´m from Spain but I live in Colombia for 10 years. 
 
-<!--
-**mvalero4/mvalero4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a person of integrity, efficient, responsible and punctual, creative and recursive character, with a broad sense of belonging and commitment to the objectives of the organization, great learning capacity; spirit of collaboration, ability to work in teams, adaptability to change and continuous learning, good interpersonal relationships and interest in continuous personal and work improvement.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student of web development school.
+- 🌱 I’m currently learning frontend and backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skills are:
+
+- Html
+- Css
+- Javascript
+- React
+- Git/Github
+
+My interests are:
+
+- Motivated to learn new stuff every day.
+- Become a FullStack Developer.
+
+
+And there are my <a href="https://github.com/mvalero4?tab=repositories">repositories</a>.
+
