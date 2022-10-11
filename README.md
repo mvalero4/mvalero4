@@ -1,4 +1,4 @@
-## Hi :wave:, I´m Carmen Valero :computer: <br>
+## Hi :wave:, I´m Carmen Valero :computer:, this is my <a href=">Landing Page</a>.
 ### I´m from Spain but I live in Colombia for 10 years. 
 
 I am a person of integrity, efficient, responsible and punctual, creative and recursive character, with a broad sense of belonging and commitment to the objectives of the organization, great learning capacity; spirit of collaboration, ability to work in teams, adaptability to change and continuous learning, good interpersonal relationships and interest in continuous personal and work improvement.
@@ -20,7 +20,7 @@ I am a person of integrity, efficient, responsible and punctual, creative and re
 - Become a FullStack Developer.
 
 
-And there are my <a href="https://github.com/mvalero4?tab=repositories">repositories</a>.
+There are my <a href="https://github.com/mvalero4?tab=repositories">repositories</a>.
 
-And finally this is my website in building process. <a href='https://carmen-valero-developer.netlify.app/'>Carmen Valero frontendDev</a>
+And finally this is other website in building process. <a href='https://carmen-valero-developer.netlify.app/'>Carmen Valero frontendDev</a>
 
