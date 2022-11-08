@@ -11,6 +11,7 @@ I am a person of integrity, efficient, responsible and punctual, creative and re
 - Html
 - Css
 - Javascript
+- Sass
 - React
 - Git/Github
 
