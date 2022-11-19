@@ -12,6 +12,7 @@ I am a person of integrity, efficient, responsible and punctual, creative and re
 - Css
 - Javascript
 - Sass
+- Tailwind
 - React
 - Git/Github
 
