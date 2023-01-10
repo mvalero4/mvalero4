@@ -14,8 +14,6 @@ I am a person of integrity, efficient, responsible and punctual, creative and re
 - Sass
 - Tailwind
 - Bootstrap
-- Typescript
-- React
 - Git/Github
 
 ## My interests are:
