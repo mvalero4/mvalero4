@@ -27,10 +27,6 @@ There are my <a href="https://github.com/mvalero4?tab=repositories">repositories
 And finally this is other website in building process. <a href='https://carmen-valero-developer.netlify.app/'>Carmenfrontdev</a>
 
 
-# 💫 About Me:
-I’m currently a student of web development school.<br>I’m currently learning frontend and backend development.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/carmenfrontdev/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/carmen-valero-carre%C3%B1o-59ba6318b/) 
 
