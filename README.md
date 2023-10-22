@@ -1,4 +1,4 @@
-## Hi :wave:, I´m Carmen Valero :computer:, this is my <a href="https://landing-page-carmenfrontdev.netlify.app/" target='_blank'>Landing Page</a>.
+## Hi :wave:, I´m Carmen Valero :computer:, this is my <a href="https://www.carmenfrontdev.com" target='_blank'>Landing Page</a>.
 ### I´m from Spain but I live in Colombia for 10 years. 
 
 I am a person of integrity, efficient, responsible and punctual, creative and recursive character, with a broad sense of belonging and commitment to the objectives of the organization, great learning capacity; spirit of collaboration, ability to work in teams, adaptability to change and continuous learning, good interpersonal relationships and interest in continuous personal and work improvement.
